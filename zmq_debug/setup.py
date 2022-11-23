@@ -12,7 +12,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [ ]
 
-test_requirements = ['pytest>=3', ]
+test_requirements = ['workflows>=3', ]
 
 setup(
     author="Maxym Myroshnychenko",

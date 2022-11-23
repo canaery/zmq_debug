@@ -19,6 +19,16 @@ zmq_debug
 Debugging zmq for open ephys
 
 
+Basic usage
+-----
+0. Install dependencies: `pip instsall -r requirements.txt`
+1. Start Open Ephys GUI
+2. Open one of the datasets in `data` folder in Open Ephys' File reader
+3. Add ZMQ Interface (keep default dataport of 5556)
+4. Run `reporter_new.py`
+5. Press play on Open Ephys GUI
+6. Use OrgVsStream.ipynb to visualize results
+
 * Free software: MIT license
 * Documentation: https://zmq-debug.readthedocs.io.
 
