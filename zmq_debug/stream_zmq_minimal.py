@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 import zmq
 
@@ -25,6 +26,7 @@ for i in range(136):
 save_json = True
 missed = []
 warmup_till = 51300
+path_out = Path('~/sample.json').expanduser()
 
 while True:
     # print(message_num_received)
@@ -40,15 +42,15 @@ while True:
         missed.append(channel_num)
 
     # append each channel to a dict and save after 12558 samples or 73710 message
-    if save_json:
-        p = save_dict[int(channel_num)]
-        p.extend(n_arr)
-        save_dict[int(channel_num)] = p
-        print(f"length of channel {channel_num}: ", len(p))
-        print("missed message at", missed)
-        if message_num_received == 74256:
-            # saving the channels in a json file
-            json_object = json.dumps(save_dict, cls=NumpyFloatValuesEncoder)
-            with open("sample123.json", "w+") as outfile:
-                outfile.write(json_object)
-            break
+    p = save_dict[int(channel_num)]
+    p.extend(n_arr)
+    save_dict[int(channel_num)] = p
+    print(f"length of channel {channel_num}: ", len(p))
+    print("missed message at", missed)
+    if message_num_received == 74256:
+        print(f"Saving sample file to {path_out}")
+        # saving the channels in a json file
+        json_object = json.dumps(save_dict, cls=NumpyFloatValuesEncoder)
+        with open(str(path_out), "w+") as outfile:
+            outfile.write(json_object)
+        break

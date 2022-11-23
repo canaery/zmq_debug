@@ -6,6 +6,8 @@ import zmq
 import numpy as np
 import json
 
+path_out = Path("~/data/sample.json").expanduser()
+
 do_arithmetic = False
 do_plots = False
 
@@ -109,7 +111,8 @@ while True:
             time.sleep(5)
             # saving the channels in a json file
             json_object = json.dumps(save_dict, cls=NumpyFloatValuesEncoder)
-            with open(Path("~/data/sample.json").expanduser(), "w+") as outfile:
+            with open(path_out, "w+") as outfile:
+                print(f'Writing {path_out}')
                 outfile.write(json_object)
             # saving the timestamps
             save_times = {"timestamps": timestamps}

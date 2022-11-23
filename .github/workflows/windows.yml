@@ -1,0 +1,65 @@
+name: Windows
+# Source: https://github.com/medengineer/open-ephys-test-suite/blob/pkulik/dev/.github/workflows/windows.yml
+on:
+  push:
+
+jobs:
+  test-suite:
+    runs-on: windows-2022
+    steps:
+      - uses: actions/checkout@v2
+      - name: Start Windows Audio Engine
+        run: net start audiosrv
+      - name: Install Scream
+        shell: powershell
+        run: |
+          Start-Service audio*
+          Invoke-WebRequest https://github.com/duncanthrax/scream/releases/download/3.6/Scream3.6.zip -OutFile C:\Scream3.6.zip
+          Extract-7Zip -Path C:\Scream3.6.zip -DestinationPath C:\Scream
+          $cert = (Get-AuthenticodeSignature C:\Scream\Install\driver\Scream.sys).SignerCertificate
+          $store = [System.Security.Cryptography.X509Certificates.X509Store]::new("TrustedPublisher", "LocalMachine")
+          $store.Open("ReadWrite")
+          $store.Add($cert)
+          $store.Close()
+          cd C:\Scream\Install\driver
+          C:\Scream\Install\helpers\devcon install Scream.inf *Scream
+      - name: Show audio device
+        run: Get-CimInstance Win32_SoundDevice | fl *
+      - name: Download GUI
+        shell: powershell
+        run: |
+          Invoke-WebRequest https://openephysgui.jfrog.io/artifactory/Dev/windows/open-ephys-v0.6.3-beta-windows.zip -OutFile C:\open-ephys.zip
+          Extract-7Zip -Path C:\open-ephys.zip -DestinationPath C:\open-ephys
+          New-Item -Path 'C:\open-ephys\data' -ItemType Directory
+      - name: Install test-suite
+        shell: powershell
+        run: |
+          pip install open-ephys-python-tools
+      - name: Round Trip Test
+        shell: powershell
+        run: |
+          Copy-Item -Path "D:\a\open-ephys-test-suite\open-ephys-test-suite\plugins\*" -Destination "C:\open-ephys\plugins" -Recurse
+          Copy-Item -Path "D:\a\open-ephys-test-suite\open-ephys-test-suite\shared\*" -Destination "C:\open-ephys\shared" -Recurse
+          Start-Sleep -Seconds 2
+          & C:\open-ephys\open-ephys.exe configs\file_reader_config.xml
+          Start-Sleep -Seconds 5
+          python tests\round_trip_record.py --mode githubactions --fetch 1 --num_exp 2 --num_rec 2
+      - name: Test Get/Set Recording Info
+        shell: powershell
+        run: |
+          & C:\open-ephys\open-ephys.exe configs\file_reader_config.xml
+          Start-Sleep -Seconds 5
+          python tests\get_set_recording_info.py --mode githubactions
+          Get-ChildItem -Path C:\open-ephys\data -Recurse -Directory -Force -ErrorAction SilentlyContinue | Select-Object FullName
+      - name: Test Get/Set Parameters
+        shell: powershell
+        run: |
+          & C:\open-ephys\open-ephys.exe configs\file_reader_config.xml
+          Start-Sleep -Seconds 5
+          python tests\get_set_parameters.py --mode githubactions
+      - name: Test Add/Delete Processors
+        shell: powershell
+        run: |
+          & C:\open-ephys\open-ephys.exe configs\file_reader_config.xml
+          Start-Sleep -Seconds 5
+          python tests\add_delete_processors.py --mode githubactions
