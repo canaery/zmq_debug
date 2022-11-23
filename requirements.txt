@@ -1,0 +1,8 @@
+neo
+numpy
+pynwb
+open-ephys-python-tools
+holoviews
+bokeh
+streamz
+matplotlib
