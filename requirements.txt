@@ -6,3 +6,4 @@ holoviews
 bokeh
 streamz
 matplotlib
+zmq
