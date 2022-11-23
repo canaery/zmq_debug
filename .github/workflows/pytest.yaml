@@ -20,5 +20,5 @@ jobs:
           pip install -r requirements.txt
     - name: test
       run: |
-        cookiecutter . --no-input
-        cd ./python_boilerplate && pytest -vv
+        pytest -vv tests/
+
