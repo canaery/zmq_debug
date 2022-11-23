@@ -1,0 +1,1129 @@
+{
+    "GUI version": "0.6.2",
+    "continuous": [
+      {
+        "folder_name": "File_Reader-100.Rhythm_FPGA-100.0/",
+        "sample_rate": 1000.0,
+        "source_processor_name": "File Reader",
+        "source_processor_id": 100,
+        "stream_name": "Rhythm_FPGA-100.0",
+        "recorded_processor": "Record Node",
+        "recorded_processor_id": 110,
+        "num_channels": 136,
+        "channels": [
+          {
+            "channel_name": "CH1",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH2",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH3",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH4",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH5",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH6",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH7",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH8",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH9",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH10",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH11",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH12",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH13",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH14",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH15",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH16",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH17",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH18",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH19",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH20",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH21",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH22",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH23",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH24",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH25",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH26",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH27",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH28",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH29",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH30",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH31",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH32",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH33",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH34",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH35",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH36",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH37",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH38",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH39",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH40",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH41",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH42",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH43",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH44",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH45",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH46",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH47",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH48",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH49",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH50",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH51",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH52",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH53",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH54",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH55",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH56",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH57",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH58",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH59",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH60",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH61",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH62",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH63",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH64",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH65",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH66",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH67",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH68",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH69",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH70",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH71",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH72",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH73",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH74",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH75",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH76",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH77",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH78",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH79",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH80",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH81",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH82",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH83",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH84",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH85",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH86",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH87",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH88",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH89",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH90",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH91",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH92",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH93",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH94",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH95",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH96",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH97",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH98",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH99",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH100",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH101",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH102",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH103",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH104",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH105",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH106",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH107",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH108",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH109",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH110",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH111",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH112",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH113",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH114",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH115",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH116",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH117",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH118",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH119",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH120",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH121",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH122",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH123",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH124",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH125",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH126",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH127",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "CH128",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.1949999928474426,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC1",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC2",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC3",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC4",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC5",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC6",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC7",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          },
+          {
+            "channel_name": "ADC8",
+            "description": "description",
+            "identifier": "",
+            "history": "File Reader -> Record Node",
+            "bit_volts": 0.000152587890625,
+            "units": ""
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "folder_name": "File_Reader-100.Rhythm_FPGA-100.0/TTL/",
+        "channel_name": "All TTL events",
+        "description": "All TTL events loaded for the current input data source",
+        "identifier": "sourceevent",
+        "sample_rate": 1000.0,
+        "type": "int16",
+        "source_processor": "File Reader",
+        "stream_name": "Rhythm_FPGA-100.0",
+        "initial_state": 0
+      },
+      {
+        "folder_name": "MessageCenter/",
+        "channel_name": "Messages",
+        "description": "Broadcasts messages from the MessageCenter",
+        "identifier": "messagecenter.events",
+        "sample_rate": 1000.0,
+        "type": "string",
+        "source_processor": "Message Center",
+        "stream_name": "Rhythm_FPGA-100.0"
+      }
+    ],
+    "spikes": []
+  }

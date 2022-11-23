@@ -21,7 +21,7 @@ Debugging zmq for open ephys
 
 Basic usage
 -----
-0. Install dependencies: `pip instsall -r requirements.txt`
+0. Install dependencies: `pip install -r requirements.txt`
 1. Start Open Ephys GUI
 2. Open one of the datasets in `data` folder in Open Ephys' File reader
 3. Add ZMQ Interface (keep default dataport of 5556)
