@@ -1,0 +1,2189 @@
+{
+    "GUI version": "0.6.0",
+    "continuous": [
+        {
+            "folder_name": "stream1",
+            "sample_rate": 1000,
+            "stream_name": "stream1",
+            "num_channels": 544,
+            "channels": [
+                {
+                    "channel_name": "CH1",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH2",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH3",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH4",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH5",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH6",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH7",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH8",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH9",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH10",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH11",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH12",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH13",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH14",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH15",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH16",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH17",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH18",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH19",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH20",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH21",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH22",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH23",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH24",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH25",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH26",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH27",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH28",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH29",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH30",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH31",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH32",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH33",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH34",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH35",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH36",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH37",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH38",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH39",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH40",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH41",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH42",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH43",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH44",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH45",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH46",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH47",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH48",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH49",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH50",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH51",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH52",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH53",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH54",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH55",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH56",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH57",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH58",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH59",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH60",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH61",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH62",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH63",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH64",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH65",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH66",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH67",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH68",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH69",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH70",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH71",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH72",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH73",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH74",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH75",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH76",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH77",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH78",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH79",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH80",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH81",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH82",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH83",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH84",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH85",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH86",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH87",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH88",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH89",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH90",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH91",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH92",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH93",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH94",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH95",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH96",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH97",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH98",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH99",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH100",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH101",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH102",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH103",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH104",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH105",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH106",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH107",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH108",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH109",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH110",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH111",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH112",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH113",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH114",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH115",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH116",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH117",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH118",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH119",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH120",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH121",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH122",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH123",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH124",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH125",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH126",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH127",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH128",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH129",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH130",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH131",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH132",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH133",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH134",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH135",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH136",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH137",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH138",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH139",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH140",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH141",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH142",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH143",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH144",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH145",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH146",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH147",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH148",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH149",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH150",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH151",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH152",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH153",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH154",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH155",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH156",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH157",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH158",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH159",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH160",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH161",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH162",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH163",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH164",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH165",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH166",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH167",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH168",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH169",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH170",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH171",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH172",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH173",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH174",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH175",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH176",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH177",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH178",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH179",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH180",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH181",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH182",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH183",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH184",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH185",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH186",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH187",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH188",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH189",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH190",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH191",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH192",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH193",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH194",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH195",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH196",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH197",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH198",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH199",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH200",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH201",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH202",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH203",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH204",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH205",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH206",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH207",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH208",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH209",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH210",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH211",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH212",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH213",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH214",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH215",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH216",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH217",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH218",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH219",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH220",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH221",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH222",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH223",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH224",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH225",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH226",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH227",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH228",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH229",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH230",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH231",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH232",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH233",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH234",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH235",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH236",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH237",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH238",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH239",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH240",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH241",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH242",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH243",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH244",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH245",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH246",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH247",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH248",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH249",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH250",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH251",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH252",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH253",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH254",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH255",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH256",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH257",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH258",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH259",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH260",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH261",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH262",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH263",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH264",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH265",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH266",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH267",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH268",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH269",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH270",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH271",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH272",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH273",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH274",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH275",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH276",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH277",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH278",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH279",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH280",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH281",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH282",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH283",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH284",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH285",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH286",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH287",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH288",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH289",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH290",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH291",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH292",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH293",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH294",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH295",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH296",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH297",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH298",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH299",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH300",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH301",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH302",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH303",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH304",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH305",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH306",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH307",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH308",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH309",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH310",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH311",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH312",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH313",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH314",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH315",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH316",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH317",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH318",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH319",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH320",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH321",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH322",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH323",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH324",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH325",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH326",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH327",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH328",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH329",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH330",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH331",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH332",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH333",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH334",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH335",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH336",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH337",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH338",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH339",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH340",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH341",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH342",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH343",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH344",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH345",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH346",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH347",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH348",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH349",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH350",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH351",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH352",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH353",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH354",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH355",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH356",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH357",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH358",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH359",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH360",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH361",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH362",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH363",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH364",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH365",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH366",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH367",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH368",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH369",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH370",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH371",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH372",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH373",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH374",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH375",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH376",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH377",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH378",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH379",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH380",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH381",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH382",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH383",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH384",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH385",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH386",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH387",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH388",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH389",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH390",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH391",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH392",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH393",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH394",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH395",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH396",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH397",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH398",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH399",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH400",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH401",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH402",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH403",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH404",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH405",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH406",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH407",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH408",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH409",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH410",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH411",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH412",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH413",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH414",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH415",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH416",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH417",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH418",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH419",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH420",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH421",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH422",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH423",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH424",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH425",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH426",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH427",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH428",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH429",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH430",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH431",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH432",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH433",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH434",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH435",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH436",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH437",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH438",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH439",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH440",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH441",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH442",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH443",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH444",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH445",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH446",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH447",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH448",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH449",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH450",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH451",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH452",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH453",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH454",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH455",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH456",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH457",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH458",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH459",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH460",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH461",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH462",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH463",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH464",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH465",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH466",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH467",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH468",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH469",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH470",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH471",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH472",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH473",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH474",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH475",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH476",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH477",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH478",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH479",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH480",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH481",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH482",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH483",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH484",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH485",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH486",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH487",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH488",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH489",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH490",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH491",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH492",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH493",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH494",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH495",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH496",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH497",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH498",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH499",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH500",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH501",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH502",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH503",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH504",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH505",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH506",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH507",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH508",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH509",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH510",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH511",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH512",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH513",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH514",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH515",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH516",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH517",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH518",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH519",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH520",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH521",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH522",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH523",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH524",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH525",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH526",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH527",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH528",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH529",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH530",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH531",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH532",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH533",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH534",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH535",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH536",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH537",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH538",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH539",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH540",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH541",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH542",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH543",
+                    "bit_volts": 0.195
+                },
+                {
+                    "channel_name": "CH544",
+                    "bit_volts": 0.195
+                }
+            ]
+        }
+    ]
+}
