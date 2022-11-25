@@ -22,17 +22,18 @@ segl = Segment(index=5)
 segl.analogsignals.append(sig)
 segl.analogsignals[0].ndim
 Path('data/open_ephys_data_544ch_12sec/').expanduser().mkdir(exist_ok=True)
-Path('data/open_ephys_data_544ch_12sec/continuous/').expanduser().mkdir(exist_ok=True)
-Path('data/open_ephys_data_544ch_12sec/continuous/stream1/').expanduser().mkdir(exist_ok=True)
+Path('data/open_ephys_data_544ch_12sec/Record Node 110/').expanduser().mkdir(exist_ok=True)
+Path('data/open_ephys_data_544ch_12sec/Record Node 110/recording1/').expanduser().mkdir(exist_ok=True)
+Path('data/open_ephys_data_544ch_12sec/Record Node 110/recording1/continuous').expanduser().mkdir(exist_ok=True)
 
 flarge_data = neo.RawBinarySignalIO(Path(
-    'data/open_ephys_data_544ch_12sec/continuous/stream1/continuous.dat').expanduser())
+    'data/open_ephys_data_544ch_12sec/Record Node 110/recording1/continuous').expanduser())
 flarge_data.write_segment(segl)
 flarge_data
 
 from open_ephys.analysis.formats import BinaryRecording
 
 BinaryRecording.create_oebin_file(Path('data/open_ephys_data_544ch_12sec').expanduser(),
-                                  stream_name='stream1',
+                                  stream_name='Rhythm_FPGA-100.0',
                                   channel_count=channel_count,
                                   sample_rate=1000)

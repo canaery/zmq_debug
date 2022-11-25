@@ -2,9 +2,9 @@
     "GUI version": "0.6.0",
     "continuous": [
         {
-            "folder_name": "stream1",
+            "folder_name": "Rhythm_FPGA-100.0",
             "sample_rate": 1000,
-            "stream_name": "stream1",
+            "stream_name": "Rhythm_FPGA-100.0",
             "num_channels": 544,
             "channels": [
                 {

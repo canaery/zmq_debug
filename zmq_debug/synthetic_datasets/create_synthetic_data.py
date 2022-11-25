@@ -13,18 +13,23 @@ sig.ndim
 segl = Segment(index=5)
 segl.analogsignals.append(sig)
 segl.analogsignals[0].ndim
-Path('data/open_ephys_data_544ch_30sec_synthetic/').expanduser().mkdir(exist_ok=True)
-Path('data/open_ephys_data_544ch_30sec_synthetic/continuous/').expanduser().mkdir(exist_ok=True)
-Path('data/open_ephys_data_544ch_30sec_synthetic/continuous/stream1/').expanduser().mkdir(exist_ok=True)
 
-flarge_data = neo.RawBinarySignalIO(
-    Path('data/open_ephys_data_544ch_30sec_synthetic/continuous/stream1/continuous.dat').expanduser())
+data_path = Path('~/PycharmProjects/zmq_debug/data').expanduser()
+Path(data_path / 'open_ephys_data_544ch_30sec_synthetic/').mkdir(exist_ok=True)
+Path(data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110/').mkdir(exist_ok=True)
+Path(data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110/experiment1/').mkdir(exist_ok=True)
+Path(data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110/experiment1/recording1/').mkdir(exist_ok=True)
+Path(data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110/experiment1/recording1/continuous').mkdir(exist_ok=True)
+full_path = data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110//experiment1/recording1/continuous/File_Reader-100.Rhythm_FPGA-100.0/'
+full_path.mkdir(exist_ok=True)
+
+flarge_data = neo.RawBinarySignalIO(full_path / 'continuous.dat')
 flarge_data.write_segment(segl)
 flarge_data
 
 from open_ephys.analysis.formats import BinaryRecording
 
-BinaryRecording.create_oebin_file('data/open_ephys_data_544ch_30sec_synthetic/',
-                                  stream_name='stream1',
+BinaryRecording.create_oebin_file(data_path / 'open_ephys_data_544ch_30sec_synthetic/Record Node 110/experiment1/recording1/',
+                                  stream_name='Rhythm_FPGA-100.0',
                                   channel_count=large_data.shape[1],
                                   sample_rate=1000)

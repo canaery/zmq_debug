@@ -31,4 +31,8 @@ def decode_one_channel(msg, msg_num=None, ch_num=None, channel_nums=None):
     channel_nums.append(ch_num)
     n_arr = np.frombuffer(msg[2], dtype=np.float32)
     n_arr = np.reshape(n_arr, c['num_samples'])
+    if msg_num is not None:
+        if (msg_num == 10000) or (msg_num % 300000 == 0):
+            print(f'Found {n_arr.size} samples and {max(channel_nums)} channels')
+
     return header['message_num'], c['channel_num'], c['num_samples'], int(c['sample_rate']), n_arr, channel_nums
