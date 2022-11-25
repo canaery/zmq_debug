@@ -23,11 +23,21 @@ Basic usage
 -----
 0. Install dependencies: `pip install -r requirements.txt`
 1. Start Open Ephys GUI
-2. Open one of the datasets in `data` folder in Open Ephys' File reader
+2. Open one of the datasets in `data` folder in Open Ephys' File readee (NOTE: ONLY 2022-10-20_11-45-33 dataset is currently working. Synthetic and 544 are currently openable in OE GUI, but not loadable with OE python library
 3. Add ZMQ Interface (keep default dataport of 5556)
-4. Run `reporter_new.py` or `stream_zmq_minimap.py`
-5. Press play on Open Ephys GUI
-6. Use OrgVsStream.ipynb to visualize results
+4. Run `stress_test_minimal.py` or `stream_zmq_minimap.py`
+5. Press play on Open Ephys GUI now or before running `stress_test_minimal`
+6. Use `compare_original_to_streamed.ipynb` to visualize results
+
+Note two paths in the notebook:
+streamed_path = Path('~/PycharmProjects/zmq_debug/zmq_data/').expanduser()
+original_data_path = Path('~/PycharmProjects/zmq_debug/data/').expanduser()
+
+and one path in the script:
+path_out = Path('~/PycharmProjects/zmq_debug/zmq_data').expanduser()
+
+
+
 
 * Free software: MIT license
 * Documentation: https://zmq-debug.readthedocs.io.
